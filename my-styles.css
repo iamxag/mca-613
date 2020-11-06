@@ -1,0 +1,15 @@
+section#html {
+  background-color: rgba(182, 187, 196, 0.616);
+}
+section#css {
+  background-color: rgba(245, 210, 57, 0.486);
+}
+section#js {
+  background-color: rgba(90, 228, 90, 0.623);
+}
+section#footer {
+  background-color: rgba(175, 73, 175, 0.514);
+}
+body > p {
+  color: black
+}
